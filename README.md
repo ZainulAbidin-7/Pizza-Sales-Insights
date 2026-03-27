@@ -14,7 +14,6 @@ Daily & Monthly Trends: Visualizing the peaks and valleys of sales to optimize s
 
 Sales by Category & Size: Breaking down revenue to see if customers prefer "The Big Meat" in Large or "The Hawaiian" in Medium.
 
-Top & Bottom Performers: Identifying the best-sellers and the underdogs to help with menu engineering.
 
 📂 What's Inside?
 
